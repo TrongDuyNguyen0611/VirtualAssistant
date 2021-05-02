@@ -191,13 +191,7 @@ while i<3:
 
 		elif 'khởi động lại' in you:
 			os.system('shutdown -r')
-		elif "Quang" in you:
-			Duynt_brain="Anh Quang đẹp trai bad boy hạ hòa,không phải là fuck boy nhé <3 "
-			output = gTTS(Duynt_brain,lang="vi", slow=False)
-			output.save("output.mp3")
-			print("Anh Quang đẹp trai bad boy hạ hòa,không phải là fuck boy nhé <3 ")
-			playsound.playsound('output.mp3')
-			break
+		
 		elif "tạm biệt" in you:
 			Duynt_brain = "Tạm biệt bạn, hẹn gặp lại"
 			output = gTTS(Duynt_brain,lang="vi", slow=False)
