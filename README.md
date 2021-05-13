@@ -27,4 +27,4 @@ Therefore, in this program, I will build a Vietnamese application capable of per
 -Thay đổi hình nền máy tính
 -Cho bạn biết tin tức mới nhất
 -Nói cho bạn về hấu hết mọi thứ bạn yêu cầu
--Do đó, ở trương trình này, mình sẽ xây dựng một ứng dụng tiếng việt có khả năng thực hiện tất cả các nhiệm vụ trên.)
+-Do đó, ở trương trình này, mình sẽ xây dựng một chương trình đơn giản tiếng việt có khả năng thực hiện tất cả các nhiệm vụ trên.)
