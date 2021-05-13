@@ -1,5 +1,7 @@
 # VirtualAssistant
 
+Natural language processing (NLP) is a branch of artificial intelligence that focuses on applications on human language. In artificial intelligence, natural language processing is one of the hardest parts because it involves having to understand the meaning of language - the most perfect tool of thinking and communication.
+
 Having said that, it would be great if you could create a virtual assistant yourself right on your desktop or laptop with simple utilities such as:
 
 -Communication, greetings
