@@ -17,7 +17,8 @@ Having said that, it would be great if you could create a virtual assistant your
 
 -Play video Youtube
 
-<img width="1280" alt="Screen Shot 2021-05-15 at 1 50 07 AM" src="https://user-images.githubusercontent.com/81319640/118315618-f12ffe00-b51f-11eb-9adf-d8f373dae6c6.png">
+![cach-bat-youtube-dark-mode-hinh-5](https://user-images.githubusercontent.com/81319640/118315759-1b81bb80-b520-11eb-92d4-e2d2aa293bc0.png)
+
 
 
 
@@ -32,15 +33,30 @@ Therefore, in this program, I will build a Vietnamese application capable of per
 (Tiếng  Việt)
 Xử lý ngôn ngữ tự nhiên (natural language processing - NLP) là một nhánh của trí tuệ nhân tạo tập trung vào các ứng dụng trên ngôn ngữ của con người. Trong trí tuệ nhân tạo thì xử lý ngôn ngữ tự nhiên là một trong những phần khó  vì nó liên quan đến việc phải hiểu ý nghĩa ngôn ngữ-công cụ hoàn hảo của tư duy và giao tiếp.
 
+
 (Phải nói rằng, sẽ thật tuyệt vời nếu có thể tự mình tạo ra một trợ lý ảo ngay trên chiếc máy tính để bàn hay laptop của mình với các tiện ích đơn giản như:
+
 -Giao tiếp, chào hỏi
+
 -Cho bạn biết thời gian hiện tại
+
 -Khởi chạy ứng dụng hệ thống và mở bất kỳ trang web nào trên trình duyệt Chrome
+
 -Mở Google search và tìm kiếm thay cho bạn
+
 -Gửi email đến những người trong danh bạ của bạn
+
 -Cho bạn biết thời tết và nhiệt độ hiện tại của hầu hết mọi thành phố
--Phát cho bạn một bài hát trên Youtube
+
+-Phát cho bạn video trên Youtube
+
+<img width="1280" alt="Screen Shot 2021-05-15 at 1 50 07 AM" src="https://user-images.githubusercontent.com/81319640/118315815-318f7c00-b520-11eb-93d9-8084a0767d7a.png">
+
+
 -Thay đổi hình nền máy tính
+
 -Cho bạn biết tin tức mới nhất
+
 -Nói cho bạn về hấu hết mọi thứ bạn yêu cầu
+
 -Do đó, ở trương trình này, mình sẽ xây dựng một chương trình đơn giản tiếng việt có khả năng thực hiện tất cả các nhiệm vụ trên.)
