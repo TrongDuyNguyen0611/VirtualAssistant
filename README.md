@@ -2,15 +2,23 @@
 
 Natural language processing (NLP) is a branch of artificial intelligence that focuses on applications on human language. In artificial intelligence, natural language processing is one of the hardest parts because it involves having to understand the meaning of language - the most perfect tool of thinking and communication.
 
+![Working-Of-Speech-Recognition-Process](https://user-images.githubusercontent.com/81319640/118314501-6ef30a00-b51e-11eb-961f-0197461463b4.png)
+
+
 Having said that, it would be great if you could create a virtual assistant yourself right on your desktop or laptop with simple utilities such as:
 
 -Communication, greetings
 -Tell you the current time
 -Launch system apps and open any website on Chrome browser
 -Open Google search and search for you
--Send emails to people in your contacts
 -Tells you the time of Tet and the current temperature of almost any city
+
+![Capture](https://user-images.githubusercontent.com/81319640/118314594-8c27d880-b51e-11eb-9138-6e11996fb593.png)
+
 -Play you a song on Youtube
+
+![cach-bat-youtube-dark-mode-hinh-5](https://user-images.githubusercontent.com/81319640/118314749-c1342b00-b51e-11eb-92a2-5d06db02dbe2.png)
+
 -Change desktop wallpaper
 -Let you know the latest news
 -Tells you about almost anything you ask for
