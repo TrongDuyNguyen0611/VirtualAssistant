@@ -15,11 +15,15 @@ Having said that, it would be great if you could create a virtual assistant your
 
 ![Capture](https://user-images.githubusercontent.com/81319640/118314594-8c27d880-b51e-11eb-9138-6e11996fb593.png)
 
--Play you a song on Youtube
+-Play video Youtube
 
-![cach-bat-youtube-dark-mode-hinh-5](https://user-images.githubusercontent.com/81319640/118314749-c1342b00-b51e-11eb-92a2-5d06db02dbe2.png)
+<img width="1280" alt="Screen Shot 2021-05-15 at 1 50 07 AM" src="https://user-images.githubusercontent.com/81319640/118315618-f12ffe00-b51f-11eb-9adf-d8f373dae6c6.png">
+
+
 
 -Change desktop wallpaper
+
+
 -Let you know the latest news
 -Tells you about almost anything you ask for
 Therefore, in this program, I will build a Vietnamese application capable of performing all of the above tasks.
