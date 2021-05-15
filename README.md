@@ -8,14 +8,21 @@ Natural language processing (NLP) is a branch of artificial intelligence that fo
 Having said that, it would be great if you could create a virtual assistant yourself right on your desktop or laptop with simple utilities such as:
 
 -Communication, greetings
+
 -Tell you the current time
+
 -Launch system apps and open any website on Chrome browser
+
 -Open Google search and search for you
+
 -Tells you the time of Tet and the current temperature of almost any city
+
 
 ![Capture](https://user-images.githubusercontent.com/81319640/118314594-8c27d880-b51e-11eb-9138-6e11996fb593.png)
 
+
 -Play video Youtube
+
 
 ![cach-bat-youtube-dark-mode-hinh-5](https://user-images.githubusercontent.com/81319640/118315759-1b81bb80-b520-11eb-92d4-e2d2aa293bc0.png)
 
