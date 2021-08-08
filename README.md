@@ -38,8 +38,6 @@ Therefore, in this program, I will build a Vietnamese application capable of per
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 (Tiếng  Việt)
-Xử lý ngôn ngữ tự nhiên (natural language processing - NLP) là một nhánh của trí tuệ nhân tạo tập trung vào các ứng dụng trên ngôn ngữ của con người. Trong trí tuệ nhân tạo thì xử lý ngôn ngữ tự nhiên là một trong những phần khó  vì nó liên quan đến việc phải hiểu ý nghĩa ngôn ngữ-công cụ hoàn hảo của tư duy và giao tiếp.
-
 
 (Phải nói rằng, sẽ thật tuyệt vời nếu có thể tự mình tạo ra một trợ lý ảo ngay trên chiếc máy tính để bàn hay laptop của mình với các tiện ích đơn giản như:
 
